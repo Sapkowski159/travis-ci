@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn Travis dev
+          Learn Travis dev ONLY
         </a>
       </header>
     </div>
